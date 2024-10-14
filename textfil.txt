@@ -2,3 +2,4 @@ hej
 hejhej
 halloj från VS Tetiko!
 Provar att pusha till GitHub
+Line 5 added
